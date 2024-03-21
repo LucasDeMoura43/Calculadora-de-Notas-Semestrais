@@ -1,9 +1,9 @@
 # Caculadora De Nota Semestrais
 
 ## Sobre o projeto 📚
-Este projeto visa automatizar a relação de notas dos alunos da faculdade La Salle, simplificando a visão geral das notas do curso
+Este projeto visa automatizar a relação de notas dos alunos da faculdade La Salle, simplificando a visão geral das notas do curso.
 
-As métricas para aplicação da matemática são baseadas na composição de nota da própria universidade
+As métricas para aplicação da matemática são baseadas na composição de nota da própria universidade.
 
 ## Tecnologias utilizadas
 - html
