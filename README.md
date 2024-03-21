@@ -6,9 +6,9 @@ Este projeto visa automatizar a relação de notas dos alunos da faculdade La Sa
 As métricas para aplicação da matemática são baseadas na composição de nota da própria universidade.
 
 ## Tecnologias utilizadas
-- html
-- css
-- javascript
+- HTML
+- CSS
+- JAVASCRIPT
 
 ## Como executar ⚙
 
